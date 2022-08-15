@@ -181,8 +181,9 @@ No bugs at the moment, but if you notice any, please raise an issue.
 <br>
 <br>
 
-# Author 🐱‍🏍
+# Authors 🐱‍🏍
 * [Stephen Nwankwo](https://www.linkedin.com/in/stephen-nwankwo-9876b4196/)
+* [Adejinmi feranmi]
 <br>
 <br>
 
